@@ -3,7 +3,7 @@
     <parent>
         <groupId>com.googlecode.gwtquery</groupId>
         <artifactId>gwtquery-project</artifactId>
-        <version>1.5-SNAPSHOT</version>
+        <version>1.5-codingame-20170817</version>
     </parent>
 
 
@@ -33,6 +33,7 @@
     </profiles>
 
     <artifactId>gwtquery</artifactId>
+    <version>1.5-codingame-20170817</version>
     <packaging>jar</packaging>
     <name>Gwt Query Core API</name>
     <url>http://gquery.org</url>
